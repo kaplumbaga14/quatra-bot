@@ -1,0 +1,11 @@
+{
+  "name": "quatra-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node deploy-commands.js node index.js"
+  },
+  "author": "kaplumbaga",
+  "license": "MIT"
+}
